@@ -1,2 +1,2 @@
-# algorithm
-tradition algorithm
+# algorithms
+tradition algorithms
